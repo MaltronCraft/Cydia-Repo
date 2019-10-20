@@ -1,0 +1,28 @@
+Package: com.maltroncraft.krispykreme
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: MaltronCraft
+Filename: ./debs/com.maltroncraft.krispykreme_1.0.2_iphoneos-arm.deb
+Size: 123620248
+MD5sum: 8bbb12d12f42bd52166784e53048112d
+SHA1: 3436526ee66d669ea1925353b50f8a97fb98a663
+SHA256: 03a52e81360165ab61fb95a060ef0828059433a4db722ee7469f687c489e68b9
+Section: Apps
+Description: A total of seven Krispy Kreme apps
+Author: MaltronCraft
+Name: Krispy Kreme
+
+Package: com.maltroncraft.youtube++
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: MaltronCraft
+Filename: ./debs/com.maltroncraft.youtube++_1.0.0_iphoneos-arm.deb
+Size: 68280312
+MD5sum: e6c3190f5a238115b5dbaa0a3a595d49
+SHA1: 8b3f17dd9b11b70ae3fe3c4beb2bd7d97370e315
+SHA256: 0fc24fbebebc1632fade580acc87e98f53d1f318496d31ea4de4b858a745940b
+Section: Apps
+Description: YouTube ++ from unlimapps
+Author: MaltronCraft
+Name: YouTube++
+

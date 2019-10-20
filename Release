@@ -1,0 +1,8 @@
+Origin: MaltronCraft Repo
+Label: MaltronCraft Repo
+Suite: beta
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: MaltronCraft Repo for random projects
