@@ -1,16 +1,77 @@
-Package: com.maltroncraft.krispykreme
-Version: 1.0.2
+Package: com.maltroncraft.krispykreme1
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: MaltronCraft
-Filename: ./debs/com.maltroncraft.krispykreme_1.0.2_iphoneos-arm.deb
-Size: 123620248
-MD5sum: 8bbb12d12f42bd52166784e53048112d
-SHA1: 3436526ee66d669ea1925353b50f8a97fb98a663
-SHA256: 03a52e81360165ab61fb95a060ef0828059433a4db722ee7469f687c489e68b9
-Section: Apps
-Description: A total of seven Krispy Kreme apps
+Depends: firmware (>= 11.0), com.maltroncraft.krispykreme2 (>= 1.0.3), com.maltroncraft.krispykreme3 (>= 1.0.3), com.maltroncraft.krispykreme4 (>= 1.0.3)
+Filename: ./debs/com.maltroncraft.krispykreme1_1.0.3_iphoneos-arm.deb
+Size: 35323440
+MD5sum: 0be07ac8d217e972ce81191f0cdf5a98
+SHA1: 55a03a1003d9514e34c0cae1c418bbce4ccb74d6
+SHA256: 32f6fc9043397a1a8ee0a3161b1f509abeb8b2f9d91a74791a612fa8003c06a3
+Section: KrispyKreme
+Description: A total of eight Krispy Kreme apps
 Author: MaltronCraft
-Name: Krispy Kreme
+Name: Krispy Kreme 1
+
+Package: com.maltroncraft.krispykreme2
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: MaltronCraft
+Depends: firmware (>= 11.0), com.maltroncraft.krispykreme1 (>= 1.0.3), com.maltroncraft.krispykreme3 (>= 1.0.3), com.maltroncraft.krispykreme4 (>= 1.0.3)
+Filename: ./debs/com.maltroncraft.krispykreme2_1.0.3_iphoneos-arm.deb
+Size: 35326244
+MD5sum: 24fcf4a5fe4fd48c9731aa52ac48b8e4
+SHA1: eb4e8f83be86428889eaadfa193aa7fb70faccaa
+SHA256: 53b8e9c14169d3d1651b1909e7a9e0f928d60e1cc41ade5a906c42c42077f236
+Section: KrispyKreme
+Description: A total of eight Krispy Kreme apps
+Author: MaltronCraft
+Name: Krispy Kreme 2
+
+Package: com.maltroncraft.krispykreme3
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: MaltronCraft
+Depends: firmware (>= 11.0), com.maltroncraft.krispykreme1 (>= 1.0.3), com.maltroncraft.krispykreme2 (>= 1.0.3), com.maltroncraft.krispykreme4 (>= 1.0.3)
+Filename: ./debs/com.maltroncraft.krispykreme3_1.0.3_iphoneos-arm.deb
+Size: 35321572
+MD5sum: ea0ed53e9158ad2fb61ce902d9748eb9
+SHA1: 2e100943f1736b9619584f797fb29e7d1a982991
+SHA256: ef117be9331eb8e039b6b2f02e4d1176a00911801c21755ebe639db59b8a7825
+Section: KrispyKreme
+Description: A total of eight Krispy Kreme apps
+Author: MaltronCraft
+Name: Krispy Kreme 3
+
+Package: com.maltroncraft.krispykreme4
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: MaltronCraft
+Depends: firmware (>= 11.0), com.maltroncraft.krispykreme1 (>= 1.0.3), com.maltroncraft.krispykreme2 (>= 1.0.3), com.maltroncraft.krispykreme3 (>= 1.0.3)
+Filename: ./debs/com.maltroncraft.krispykreme4_1.0.3_iphoneos-arm.deb
+Size: 35326236
+MD5sum: bb8963ca6f63e92ef07dc7f866c9f08b
+SHA1: 46237e11b9c37d5d3f8db8d6c2310c6a6625f4f6
+SHA256: 1f2eff195fdf6ec7ada44454fe52766518e5af19c9e219d33f057d7fc09196b7
+Section: KrispyKreme
+Description: A total of eight Krispy Kreme apps
+Author: MaltronCraft
+Name: Krispy Kreme 4
+
+Package: com.maltroncraft.krispykremeinstaller
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: MaltronCraft
+Depends: firmware (>= 11.0), com.maltroncraft.krispykreme1 (>= 1.0.3), com.maltroncraft.krispykreme2 (>= 1.0.3), com.maltroncraft.krispykreme3 (>= 1.0.3), com.maltroncraft.krispykreme4 (>= 1.0.3)
+Filename: ./debs/com.maltroncraft.krispykremeinstaller_1.0.3_iphoneos-arm.deb
+Size: 804
+MD5sum: d95d660626fd3b399fc33a4273204020
+SHA1: d2bde04281314107fd06cc278e4e0fad91926b9b
+SHA256: 39035a07c6a4d53f1f093003b61b18c11906be7cc088f05fb57a7a176d339a0b
+Section: Apps
+Description: A total of eight Krispy Kreme apps
+Author: MaltronCraft
+Name: Krispy Kreme Installer
 
 Package: com.maltroncraft.youtube++
 Version: 1.0.0
